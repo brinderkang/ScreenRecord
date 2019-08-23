@@ -47,10 +47,7 @@ screenRecorder = new ScreenRecorder(gc,
 
 
 
-private void screenRecorder() {
-	// TODO Auto-generated method stub
 
-}
 
 
 
