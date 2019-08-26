@@ -32,7 +32,7 @@ public class startbutton {
 	// screenRecording Start
 	 StringBuffer verificationErrors = new StringBuffer();   
 	
-	 File file = new File(System.getProperty("user.dir")+"\\src\\movieFolder");
+	 File file = new File(System.getProperty("user.dir")+"\\ScreenRecording");
 	// Create an instance of GraphicsConfiguration to get the   Graphics configuration  of the Screen. This is needed for ScreenRecorder class.     
 	 GraphicsConfiguration gc = GraphicsEnvironment         
 			 					.getLocalGraphicsEnvironment()         
