@@ -61,7 +61,7 @@ public class ScreenStart {
 //						 f.add(l2);
 //		    			 timerN();
 		    			 
-						System.out.println("Rec Start");
+						System.out.println("Recording Start");
 						b.setEnabled(false);
 						 f.setState(Frame.ICONIFIED);
 						 
