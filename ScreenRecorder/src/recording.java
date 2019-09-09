@@ -21,7 +21,7 @@ import org.monte.media.FormatKeys.MediaType;
 import org.monte.media.math.Rational;
 import org.monte.screenrecorder.ScreenRecorder;
 
-public class startbutton {
+public class recording {
 	
 	
 	 static ScreenRecorder screenRecorder; 
